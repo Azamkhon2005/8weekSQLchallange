@@ -41,13 +41,13 @@ Danny’s Diner is in need of your assistance to help the restaurant stay afloat
 ### View full case study introduction [here](https://8weeksqlchallenge.com/case-study-1/).
 
 
-[![View Data Exploration Folder](https://img.shields.io/badge/View-Solution_Case_Study_1-971901?style=for-the-badge&logo=GITHUB)](/case%20%231%20-%20Danny's%20Diner)
+[![View Data Exploration Folder](https://img.shields.io/badge/View-Solution_Case_Study_1-971901?style=for-the-badge&logo=GITHUB)](/case%20%231%20-%20Danny's%20dinner)
 
 ---
 
 ## 🍕 Case Study #2 - Pizza Runner
 <p align="center">
-  <img width=40% height=40%" src="[/IMG/org-2.png](https://8weeksqlchallenge.com/images/case-study-designs/2.png)">
+  <img width=40% height=40%" src="https://8weeksqlchallenge.com/images/case-study-designs/2.png">
 
 Danny was scrolling through his Instagram feed when something really caught his eye - “80s Retro Styling and Pizza Is The Future!”
 
