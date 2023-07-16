@@ -6,7 +6,7 @@
 
 # 🍜 Case Study #1 - Danny's Diner
 <p align="center">
-<img src="/IMG/org-1.png" width=40% height=40%>
+<img src="https://8weeksqlchallenge.com/images/case-study-designs/1.png" width=40% height=40%>
   
 ---
 
