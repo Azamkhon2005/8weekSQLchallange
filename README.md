@@ -41,7 +41,7 @@ Danny’s Diner is in need of your assistance to help the restaurant stay afloat
 ### View full case study introduction [here](https://8weeksqlchallenge.com/case-study-1/).
 
 
-[![View Data Exploration Folder](https://img.shields.io/badge/View-Solution_Case_Study_1-971901?style=for-the-badge&logo=GITHUB)](/Case%20Study%20%231%20-%20Danny's%20Diner)
+[![View Data Exploration Folder](https://img.shields.io/badge/View-Solution_Case_Study_1-971901?style=for-the-badge&logo=GITHUB)](/case%20%231%20-%20Danny's%20Diner)
 
 ---
 
@@ -58,7 +58,7 @@ Danny started by recruiting “runners” to deliver fresh pizza from Pizza Runn
 ### View full case study introduction [here](https://8weeksqlchallenge.com/case-study-2/).
 
 
-[![View Data Exploration Folder](https://img.shields.io/badge/View-Solution_Case_Study_2-971901?style=for-the-badge&logo=GITHUB)](/Case%20%232%20-%20Pizza%20Runner)
+[![View Data Exploration Folder](https://img.shields.io/badge/View-Solution_Case_Study_2-971901?style=for-the-badge&logo=GITHUB)](/case%20%232%20-%20Pizza%20Runner)
 
 ---
 
@@ -74,7 +74,7 @@ Danny created Foodie-Fi with a data driven mindset and wanted to ensure all futu
 
 ### View full case study introduction [here](https://8weeksqlchallenge.com/case-study-3/).
 
-[![View Data Exploration Folder](https://img.shields.io/badge/View-Solution_Case_Study_3-971901?style=for-the-badge&logo=GITHUB)](/Case%20Study%20%233%20-%20Foodie-Fi)
+[![View Data Exploration Folder](https://img.shields.io/badge/View-Solution_Case_Study_3-971901?style=for-the-badge&logo=GITHUB)](/case%20%233%20-%20Foodie-Fi)
 
 ---
 
@@ -94,7 +94,7 @@ This case study is all about calculating metrics, growth and helping the busines
 
 ### View full case study introduction [here](https://8weeksqlchallenge.com/case-study-4/).
 
-[![View Data Exploration Folder](https://img.shields.io/badge/View-Solution_Case_Study_4-971901?style=for-the-badge&logo=GITHUB)](/Case%20Study%20%234%20-%20Data%20Bank)
+[![View Data Exploration Folder](https://img.shields.io/badge/View-Solution_Case_Study_4-971901?style=for-the-badge&logo=GITHUB)](/case%20%234%20-%20Data%20Bank)
 
 ---
 
@@ -117,7 +117,7 @@ What can we do about future introduction of similar sustainability updates to th
 
 ### View full case study introduction [here](https://8weeksqlchallenge.com/case-study-5/).
 
-[![View Data Exploration Folder](https://img.shields.io/badge/View-Solution_Case_Study_5-971901?style=for-the-badge&logo=GITHUB)](/Case%20Study%20%235%20-%20Data%20Mart)
+[![View Data Exploration Folder](https://img.shields.io/badge/View-Solution_Case_Study_5-971901?style=for-the-badge&logo=GITHUB)](/case%20%235%20-%20Data%20Mart)
 
 ---
 
@@ -132,4 +132,4 @@ In this case study - you are required to support Danny’s vision and analyse hi
 
 ### View full case study introduction [here](https://8weeksqlchallenge.com/case-study-6/).
 
-[![View Data Exploration Folder](https://img.shields.io/badge/View-Solution_Case_Study_6-971901?style=for-the-badge&logo=GITHUB)](/Case%20Study%20%236%20-%20Clique%20Bait)
+[![View Data Exploration Folder](https://img.shields.io/badge/View-Solution_Case_Study_6-971901?style=for-the-badge&logo=GITHUB)](/case%20%236%20-%20Clique%20Bait)
